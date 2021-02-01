@@ -12,6 +12,7 @@
 /* MAKE ALL IMGS RESPONSIVE */
 img {
   max-width: 100%;
+  height: auto;
 }
 
 /* ADDED STYLE TO STAFF EMAIL LINKS */
