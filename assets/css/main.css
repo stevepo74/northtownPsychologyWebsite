@@ -9,10 +9,7 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 
-.responsive {
-  max-width: 100%;
-  height: auto;
-}
+
 
 /* ADDED STYLE TO STAFF EMAIL LINKS */
 a:link {
@@ -273,7 +270,13 @@ input, select, textarea {
 	font-size: 80px;
 }
 
-/* HEADER ROW (STEVE) */
+/* RESPONSIVE */
+.responsive {
+  max-width: 100%;
+  height: auto;
+}
+
+/* HEADER TEXT ROW ITEMS (STEVE) */
 .table {
     display:table;
     width:100%;
