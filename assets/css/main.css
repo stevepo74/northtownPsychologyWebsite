@@ -9,6 +9,11 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 
+.responsive {
+  max-width: 100%;
+  height: auto;
+}
+
 /* ADDED STYLE TO STAFF EMAIL LINKS */
 a:link {
   color: black;
@@ -3417,7 +3422,7 @@ input, select, textarea {
 			}
 
 		/* Footer */
-  
+
 
 			#footer {
 				padding: 2em 20px;
