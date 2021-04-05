@@ -16,9 +16,7 @@ img {
 }
 
 /* ADDED STYLE TO STAFF EMAIL LINKS */
-a {
-  text-decoration: none;
-}
+
 
 a:link {
   color: black;
@@ -136,7 +134,7 @@ input, select, textarea {
 		transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out, opacity 0.2s ease-in-out;
 		color: #37c0fb;
 		text-decoration: none;
-		border-bottom: dotted 1px;
+
 	}
 
 		a:hover {
